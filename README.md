@@ -3,6 +3,8 @@ A truly inclusive and international competition accommodating teams with varied 
 Sponsored by MHRD India, hosted by IIT Bombay.
 Conducted completely online over a period of 6-7 months in a “LEARNING WHILE COMPETING" Mode.
 
+[certi_1765 (1).pdf](https://github.com/MehaShukla/Agribot/files/8765849/certi_1765.1.pdf)
+
 # Project AgriBot
 This theme inspires engineers in the area of agricultural automation.
 Agribot uses an autonomous Ground Vehicle (AGV) to traverse in a simulated Greenhouse environment, find the targeted yield and correctly execute pick-&-place.
