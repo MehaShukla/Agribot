@@ -3,7 +3,10 @@ A truly inclusive and international competition accommodating teams with varied 
 Sponsored by MHRD India, hosted by IIT Bombay.
 Conducted completely online over a period of 6-7 months in a “LEARNING WHILE COMPETING" Mode.
 
-[certi_1765 (1).pdf](https://github.com/MehaShukla/Agribot/files/8765849/certi_1765.1.pdf)
+![Eyantra 1](https://user-images.githubusercontent.com/75724727/170121813-ba817557-f716-4b64-9bbd-23e58d9bcd85.png)
+
+![Agribot](https://user-images.githubusercontent.com/75724727/170121836-4997b820-f3a8-45c6-b3f5-ad62cee224bc.png)
+
 
 # Project AgriBot
 This theme inspires engineers in the area of agricultural automation.
