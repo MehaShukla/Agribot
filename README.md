@@ -14,6 +14,8 @@ Agribot uses an autonomous Ground Vehicle (AGV) to traverse in a simulated Green
 The AGV is retrofitted with a customized gripper to plug yields easily, and so is the created environment ensured to compile with the gripper.
 The theme is divided into tasks to build the AgriBot system step-by-step within span of 6 months.
 
+## Link to Video- https://youtu.be/Kxp7rAx2HlI
+
 # Concepts used:
 Robot Operating System (ROS), Autonomous Navigation, Perception, Pick & Place, etc.
 
